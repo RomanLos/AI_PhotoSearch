@@ -1,5 +1,9 @@
 # AI-PhotoSearch (Portable)
 
+## 📸 Example Interface
+
+![App Screenshot](img/screenshot.png)
+
 This application allows you to search for images by text description and/or file name using the CLIP neural network.
 
 No need to install Python or any libraries — a portable Python environment is provided separately.
