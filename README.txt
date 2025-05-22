@@ -2,7 +2,7 @@
 
 ## 📸 Example Interface
 
-![App Screenshot](img/screenshot.png)
+![App Screenshot](screenshot.png)
 
 This application allows you to search for images by text description and/or file name using the CLIP neural network.
 
