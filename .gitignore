@@ -2,13 +2,10 @@
 system/
 
 # AI Models
-models/*.pt
-models/*.pth
-models/*.safetensors
+models
 
 # Cache and user data
-cache/*.pkl
-cache/*.pt
+cache
 # Other
 __pycache__/
 *.pyc
