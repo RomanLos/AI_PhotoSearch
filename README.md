@@ -40,6 +40,7 @@ AI_PhotoSearch/
 ├── .gitignore                  # Git ignore rules
 ├── screenshot.png              # Interface preview
 ├── ️system/                     # Portable Python (download separately)
+│   ├── python
 ├── models/                     # AI models (download separately)
 │   ├── dinov2_vitb14_pretrain.pth # DINOv2 model
 │   ├── ViT-B-32.pt               # CLIP models
