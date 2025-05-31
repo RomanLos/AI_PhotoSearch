@@ -1,6 +1,6 @@
 # AI-PhotoSearch
 
-AI-powered image search application using CLIP and DINOv2 models. Search through your photo collection using natural language descriptions or similar images.
+AI-powered local image search application. Search through your local photo collection using natural language descriptions or similar images.
 
 ![AI-PhotoSearch Interface](screenshot.png)
 
