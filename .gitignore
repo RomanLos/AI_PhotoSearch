@@ -1,4 +1,15 @@
-system
-cache
-models
+# Portable Python
+system/
+
+# AI Models
+models/*.pt
+models/*.pth
+models/*.safetensors
+
+# Cache and user data
+cache/*.pkl
+cache/*.pt
+# Other
+__pycache__/
+*.pyc
 last_used_paths.pkl
