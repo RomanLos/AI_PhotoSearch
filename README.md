@@ -33,21 +33,21 @@ Extract the downloaded archive and copy:
 
 ```
 AI_PhotoSearch/
-├── AI_PhotoSearch.bat          # Launch application
-├── AI_PhotoSearch_Update.bat   # Update to latest version
-├── app2.py                     # Main application
-├── README.md                   # This file
-├── .gitignore                  # Git ignore rules
-├── screenshot.png              # Interface preview
-├── ️system/                     # Portable Python (download separately)
+├── AI_PhotoSearch.bat             # Launch application
+├── AI_PhotoSearch_Update.bat      # Update to latest version
+├── app2.py                        # Main application
+├── README.md                      # This file
+├── .gitignore                     # Git ignore rules
+├── screenshot.png                 # Interface preview
+├── ️system/                        # Portable Python (download separately)
 │   ├── python
-├── models/                     # AI models (download separately)
+├── models/                        # AI models (download separately)
 │   ├── dinov2_vitb14_pretrain.pth # DINOv2 model
-│   ├── ViT-B-32.pt               # CLIP models
+│   ├── ViT-B-32.pt                # CLIP models
 │   ├── ViT-B-16.pt
 │   └── ViT-L-14.pt
-├── cache/                      # Generated automatically
-└── last_used_paths.pkl         # User settings (generated automatically)
+├── cache/                         # Generated automatically
+└── last_used_paths.pkl            # User settings (generated automatically)
 ```
 
 ### 3. Run the Application
