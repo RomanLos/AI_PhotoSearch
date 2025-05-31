@@ -1,12 +1,4 @@
-# Portable Python
-system/
-
-# AI Models
+system
 models
-
-# Cache and user data
 cache
-# Other
-__pycache__/
-*.pyc
 last_used_paths.pkl
